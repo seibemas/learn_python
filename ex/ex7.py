@@ -1,7 +1,7 @@
 print ("Mary had a little lamp.")
 print ("Its light was white as %s." % 'light')
 print ("And every where that Mary went.")
-print ("." * 10) # what did this do?
+print ("." * 10) # the * function coppies the print up to an integer you choose
 
 end1 = "C"
 end2 = "h"
